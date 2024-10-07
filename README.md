@@ -4,7 +4,7 @@
 
 📘 I’m currently learning Python Programming language.
 
-⚡ I graduated the Entry Module "Programming Basics with Python" with a grade of 6.00 and a certificate. 🏅
+⚡ I successfully graduated the Entry Module "Programming Basics with Python". 🏅
 
 ⏱ At the moment i am learning new things and improving my skills in the Fundamentals Module "Programming Fundamentals with Python".
 
